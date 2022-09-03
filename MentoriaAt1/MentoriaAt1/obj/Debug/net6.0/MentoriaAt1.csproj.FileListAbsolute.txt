@@ -1,0 +1,15 @@
+C:\Users\guthi\source\repos\MentoriaAt1\MentoriaAt1\bin\Debug\net6.0\MentoriaAt1.exe
+C:\Users\guthi\source\repos\MentoriaAt1\MentoriaAt1\bin\Debug\net6.0\MentoriaAt1.deps.json
+C:\Users\guthi\source\repos\MentoriaAt1\MentoriaAt1\bin\Debug\net6.0\MentoriaAt1.runtimeconfig.json
+C:\Users\guthi\source\repos\MentoriaAt1\MentoriaAt1\bin\Debug\net6.0\MentoriaAt1.dll
+C:\Users\guthi\source\repos\MentoriaAt1\MentoriaAt1\bin\Debug\net6.0\MentoriaAt1.pdb
+C:\Users\guthi\source\repos\MentoriaAt1\MentoriaAt1\obj\Debug\net6.0\MentoriaAt1.csproj.AssemblyReference.cache
+C:\Users\guthi\source\repos\MentoriaAt1\MentoriaAt1\obj\Debug\net6.0\MentoriaAt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guthi\source\repos\MentoriaAt1\MentoriaAt1\obj\Debug\net6.0\MentoriaAt1.AssemblyInfoInputs.cache
+C:\Users\guthi\source\repos\MentoriaAt1\MentoriaAt1\obj\Debug\net6.0\MentoriaAt1.AssemblyInfo.cs
+C:\Users\guthi\source\repos\MentoriaAt1\MentoriaAt1\obj\Debug\net6.0\MentoriaAt1.csproj.CoreCompileInputs.cache
+C:\Users\guthi\source\repos\MentoriaAt1\MentoriaAt1\obj\Debug\net6.0\MentoriaAt1.dll
+C:\Users\guthi\source\repos\MentoriaAt1\MentoriaAt1\obj\Debug\net6.0\refint\MentoriaAt1.dll
+C:\Users\guthi\source\repos\MentoriaAt1\MentoriaAt1\obj\Debug\net6.0\MentoriaAt1.pdb
+C:\Users\guthi\source\repos\MentoriaAt1\MentoriaAt1\obj\Debug\net6.0\MentoriaAt1.genruntimeconfig.cache
+C:\Users\guthi\source\repos\MentoriaAt1\MentoriaAt1\obj\Debug\net6.0\ref\MentoriaAt1.dll
