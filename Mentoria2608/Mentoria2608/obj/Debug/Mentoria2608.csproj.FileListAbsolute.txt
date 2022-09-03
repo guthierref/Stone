@@ -1,0 +1,8 @@
+C:\Users\guthi\source\repos\Mentoria2608\Mentoria2608\bin\Debug\Mentoria2608.exe.config
+C:\Users\guthi\source\repos\Mentoria2608\Mentoria2608\bin\Debug\Mentoria2608.exe
+C:\Users\guthi\source\repos\Mentoria2608\Mentoria2608\bin\Debug\Mentoria2608.pdb
+C:\Users\guthi\source\repos\Mentoria2608\Mentoria2608\obj\Debug\Mentoria2608.csproj.AssemblyReference.cache
+C:\Users\guthi\source\repos\Mentoria2608\Mentoria2608\obj\Debug\Mentoria2608.csproj.SuggestedBindingRedirects.cache
+C:\Users\guthi\source\repos\Mentoria2608\Mentoria2608\obj\Debug\Mentoria2608.csproj.CoreCompileInputs.cache
+C:\Users\guthi\source\repos\Mentoria2608\Mentoria2608\obj\Debug\Mentoria2608.exe
+C:\Users\guthi\source\repos\Mentoria2608\Mentoria2608\obj\Debug\Mentoria2608.pdb
