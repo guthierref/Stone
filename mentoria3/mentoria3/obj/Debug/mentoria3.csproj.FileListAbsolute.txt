@@ -1,0 +1,8 @@
+C:\Users\guthi\source\repos\mentoria3\mentoria3\obj\Debug\mentoria3.csproj.AssemblyReference.cache
+C:\Users\guthi\source\repos\mentoria3\mentoria3\obj\Debug\mentoria3.csproj.SuggestedBindingRedirects.cache
+C:\Users\guthi\source\repos\mentoria3\mentoria3\obj\Debug\mentoria3.csproj.CoreCompileInputs.cache
+C:\Users\guthi\source\repos\mentoria3\mentoria3\bin\Debug\mentoria3.exe.config
+C:\Users\guthi\source\repos\mentoria3\mentoria3\bin\Debug\mentoria3.exe
+C:\Users\guthi\source\repos\mentoria3\mentoria3\bin\Debug\mentoria3.pdb
+C:\Users\guthi\source\repos\mentoria3\mentoria3\obj\Debug\mentoria3.exe
+C:\Users\guthi\source\repos\mentoria3\mentoria3\obj\Debug\mentoria3.pdb
